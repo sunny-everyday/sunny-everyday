@@ -2,7 +2,7 @@
 - 👀 I’m interested in Iot develop and network security
 - 🌱 I’m currently learning raspberry OS and Qt coding
 - 💞️ I’m looking to collaborate on QA management on Iot product.
-- 📫 How to reach me ...
+- 📫 How to reach me: solorflower@gmail.com can reach me.
 
 <!---
 sunny-everyday/sunny-everyday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
